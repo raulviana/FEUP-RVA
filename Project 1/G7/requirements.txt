@@ -1,0 +1,7 @@
+opencv-python # OpenCV Libray
+
+mediapipe
+
+pyautogui # Force Key Pressing
+
+playsound == 1.2.2 # Play Sounds

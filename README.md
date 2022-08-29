@@ -51,3 +51,6 @@ In the end, only the toughest luckier survives.
  
  - The android *apk* file and the printable markers can be accessed at: [SenshiKing](https://drive.google.com/file/d/16eRW8tn57WJalpVuObFLL1CDc_DJGJ6q/view?usp=sharing)
 
+### Report
+
+[Project 2 Report](https://github.com/raulviana/FEUP-RVA/blob/main/Project%202/Submission/RVAU-P2-7-Report.pdf)

@@ -1,5 +1,5 @@
 # FEUP-RVA
-Virtual and Augmented Reality Course
+Virtual and Augmented Reality Course ([Realidade Virtual e Aumentada](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486292))
 
 
 ## Project 1
